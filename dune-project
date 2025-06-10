@@ -1,4 +1,5 @@
 (lang dune 3.0)
+(name mirage-block-unikraft)
 (generate_opam_files)
 
 (source (github mirage/mirage-block-unikraft))
